@@ -1,10 +1,10 @@
 ---
 name: YENİ UYGULAMALAR
-about: Uygulama
+about: Describe this issue template's purpose here.
 title: ''
-labels: Projeler, Son Uygulama
+labels: ''
 assignees: ''
 
 ---
 
-Uygulama alanı
+
