@@ -3,6 +3,6 @@
     "description": "Türk içerik paylaşımi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ingilizcedoc/ingilizcedoc.github.io/main/repo.json"
+      "https://raw.githubusercontent.com/ingilizcedoc/freemium/main/repo.json"
     ]
 }
