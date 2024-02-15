@@ -1,6 +1,6 @@
 {
-    "name": "Turkish Providers Repository | @ingilizcedoc",
-    "description": "Türkçe içerikli eklenti havuzu",
+    "name": "film dizi platformu| @ingilizcedoc",
+    "description": "Türk içerik paylaşımi",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/ingilizcedoc/ingilizcedoc.github.io/main/repo.json"
