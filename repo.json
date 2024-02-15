@@ -1,8 +1,8 @@
 {
-    "name": "yess Providers Repository | @KekikAkademi",
+    "name": "yeni Providers Repository | @KekikAkademi",
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/ingilizcedoc/freemium/blob/main/repo.json"
+      "https://raw.githubusercontent.com/ingilizcedoc/freemium/master/repo.json"
     ]
 }
