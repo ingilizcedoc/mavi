@@ -1,8 +1,8 @@
 {
-    "name": "film dizi platformu| @KekikAkademi",
-    "description": "Türk içerik paylaşımi",
+    "name": "Turkish Providers Repository | @KekikAkademi",
+    "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ingilizcedoc/freemium/main/repo.json"
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
     ]
 }
