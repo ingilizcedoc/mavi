@@ -3,6 +3,6 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ingilizcedoc/freemium/master/repo.json"
+      "https://raw.githubusercontent.com/ingilizcedoc/freemium/builds/plugins.json"
     ]
 }
