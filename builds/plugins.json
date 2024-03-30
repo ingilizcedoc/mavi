@@ -1,0 +1,39 @@
+[{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ingilizcedoc/freemium",
+        "fileSize": 13693,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FILMMAKINESI",
+        "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
+        "url": "https://github.com/ingilizcedoc/freemium/raw/master/FilmMakinesi/FilmMakinesi.cs3",
+        "name": "FILMMAKINESI"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.film&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ingilizcedoc/freemium",
+        "fileSize": 13215,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "JetFilmizle",
+        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
+        "url": "https://github.com/ingilizcedoc/freemium/raw/master/JetFilmizle/JetFilmizle.cs3",
+        "name": "JetFilmizle"
+    }
+]

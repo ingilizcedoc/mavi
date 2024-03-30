@@ -1,8 +1,8 @@
 {
-    "name": "yess Providers Repository | @KekikAkademi",
-    "description": "Türkçe içerikli eklenti havuzu",
+    "name": "🇹🇷TURKPORTALGRUP @mavibooran",
+    "description": "film dizi eklentisi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/ingilizcedoc/freemium/blob/main/repo.json"
+      "https://raw.githubusercontent.com/ingilizcedoc/freemium/master/builds/plugins.json"
     ]
 }
